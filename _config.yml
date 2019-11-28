@@ -1,3 +1,2 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "https://github.com/grandcore/grandcore.github.io/blob/master/img/_logo.png"
-footer_content: "Copyright &copy; 2017-2019"
+logo: "/assets/images/_logo.png"
