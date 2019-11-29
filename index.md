@@ -17,11 +17,25 @@ has_children: true
 [Laravel Bratia](https://grandcore.org/docs/03-bratia/) - Готовые модули для фреймворка Laravel. Коллективный блог (как Habr, например), сервис вопросов и ответов, коллективные списки (книги итд), барахолка итд. Предназначены для открытых или закрытых автономных сообществ.    
 
 ## Посмотрите что делаем
-Если х
+Figma (см. страницы) - [Дизайн-Макеты](https://www.figma.com/file/bUGWimVYcB2JT1HXQtgJfa/11)
 
+Edem - [Репозиторий](https://github.com/grandcore/Edem)
 
-## Пишите основателю Фонда, если хотите стать участником
+Bratia - [Репозиторий](https://github.com/grandcore/Bratia)
+
+## Подпишитесь на группы и каналы
+Telegram канал - [@grandcore](https://t.me/grandcore) 
+
+Telegram чат - [@grandcore_chat](https://t.me/grandcore_chat) 
+
+YouTube канал - [@UCCcI0eNBhfd0qHIzZLDvKVA](https://www.youtube.com/channel/UCCcI0eNBhfd0qHIzZLDvKVA) 
+
+## Пишите, если хотите помочь
+Пишите основателю Фонда, если хотите участвовать в проекте. 
+Если у Вас есть просто идеи или пожелания, тоже пишите =) 
+
 Telegram - [@i0zgMRV49fX](https://t.me/i0zgMRV49fX)
+
 Email - [ru@grandcore.org](mailto:ru@grandcore.org)
 
 
