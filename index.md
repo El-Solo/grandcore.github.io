@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Маркетплейс
-parent: Про GrandCore Foundation
+title: Стать Участником
 nav_order: 1
 ---
 
 
-# TEST
+# Привет!
+ыватыдлвтадвыта
