@@ -1,4 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "https://github.com/grandcore/grandcore.github.io/raw/master/assets/images/_logo.png"
 color_scheme: "dark"
-title: "GrandCore" - page.title
+title: "GrandCore - " page.title
