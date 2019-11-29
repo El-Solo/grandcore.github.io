@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Про GrandCore Foundation
+title: XПро GrandCore Foundation
 nav_order: 1
 has_children: true
 ---
