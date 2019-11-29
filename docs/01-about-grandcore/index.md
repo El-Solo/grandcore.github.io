@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XПро GrandCore Foundation
+title: Про Фонд
 nav_order: 1
 has_children: true
 ---

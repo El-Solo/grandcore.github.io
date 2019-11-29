@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Биржа Услуг
-parent: Про GrandCore Foundation
+parent: Про Фонд
 nav_order: 2
 ---
 
