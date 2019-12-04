@@ -2,7 +2,7 @@
 layout: default
 title: Проект
 parent: Edem
-nav_order: 2
+nav_order: 3
 ---
 
 # Процесс

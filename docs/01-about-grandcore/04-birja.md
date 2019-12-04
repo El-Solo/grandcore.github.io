@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Маркетплейс
+title: Биржа Услуг
 parent: Про Фонд
-nav_order: 1
+nav_order: 4
 ---
 
-# Маркетплейс
+# Биржа Услуг
 *В процесссе =)*
