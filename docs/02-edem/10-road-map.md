@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Сервис Места
-parent: Laravel Bratia
-nav_order: 6
+title: Дорожная Карта
+parent: Edem
+nav_order: 10
 ---
 
-# Сервис Места
+# Дорожная Карта
 *Данная страница в процессе редактирования*

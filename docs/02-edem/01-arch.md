@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Сервис Места
-parent: Laravel Bratia
-nav_order: 6
+title: Архитектура
+parent: Edem
+nav_order: 1
 ---
 
-# Сервис Места
+# Архитектура
 *Данная страница в процессе редактирования*

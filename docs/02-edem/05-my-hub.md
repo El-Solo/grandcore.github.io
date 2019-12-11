@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Laravel Bratia
-nav_order: 1
-has_children: true
+title: Мой Хаб
+parent: Edem
+nav_order: 5
 ---
 
-
-# Laravel Bratia
+# Мой Хаб
 *Данная страница в процессе редактирования*
