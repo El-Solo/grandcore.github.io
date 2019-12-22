@@ -18,5 +18,22 @@
   border: 1px solid #DDE1E6;
   color: $dark;
 }
+.tasks p {
+  position: relative;
+  cursor: pointer;
+}
+.tasks ul {
+  padding-left: 1rem;
+}
+.tasks p::after {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 50%;
+  margin-left: .125rem;
+  transform: translateY(-50%);
+  background-image: url("../../images/down.svg");
+  content: " ";
+}
 .taskList .title{
 }
