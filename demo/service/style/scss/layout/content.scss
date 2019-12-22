@@ -21,9 +21,12 @@
 .tasks p {
   position: relative;
   cursor: pointer;
+  font-weight: normal;
 }
 .tasks ul {
   padding-left: 1rem;
+  font-weight: normal;
+  font-size: 10px;
 }
 .tasks p::after {
   position: absolute;
