@@ -1,0 +1,25 @@
+.btn {
+  border: 2px solid $taskBorder;
+  border-radius: 4px;
+  background-color: white;
+  color: $dark;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 24px;
+  transition: .3s;
+}
+.darkBtn {
+  background: $dark;
+  color: $color-header;
+  border: 2px solid $dark;
+}
+.lightBtn {
+  background: $white;
+  color: $dark;
+  border: 2px solid $dark;
+}
+.defaultBtn:hover, .lightBtn:hover {
+  background: $color-header;
+}
