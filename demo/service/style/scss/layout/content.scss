@@ -1,0 +1,22 @@
+#content .container {
+  padding-top: 0;
+  align-items: flex-start;
+}
+#content .taskList, #content .taskAction {
+  padding: 2rem;
+}
+#content .taskList {
+  background-color: $dark;
+  border-radius: 4px;
+  color: $white;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 26px;
+}
+#content .taskAction {
+  margin-left: 1.18rem;
+  border: 1px solid #DDE1E6;
+  color: $dark;
+}
+.taskList .title{
+}

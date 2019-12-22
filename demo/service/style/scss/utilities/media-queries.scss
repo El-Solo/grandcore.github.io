@@ -1,0 +1,16 @@
+@media screen and (max-width: 998px) {
+  nav, #header ul{
+    display: none;
+  }
+  #header .openSidebar {
+    display: block;
+  }
+}
+@media screen and (max-height: 440px) {
+  #sidebar {
+    padding-top: 15px;
+  }
+  #sidebar a {
+    font-size: 18px;
+  }
+}

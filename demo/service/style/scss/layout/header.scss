@@ -1,0 +1,16 @@
+#header {
+  background-color: $background-header;
+  color: $color-header;
+}
+#header .container {
+  padding: 0 1rem;
+  justify-content: space-between;
+}
+#header .personal{
+  display: inherit;
+  align-items: inherit;
+  cursor: pointer;
+}
+.personal .avatar{
+  margin: 0 .25rem;
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GrandCore</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style/scss/main.css"/>
+</head>
+<body>
+  <header id="header">
+    <div class="container">
+      <nav>
+        <ul>
+          <li>Проекты тип #1</li>
+          <li>Проекты тип #2</li>
+          <li>Проекты тип #3</li>
+        </ul>
+      </nav>
+      <span class="openSidebar" onclick="openNav()">&#9776;</span>
+      <div class="personal">
+        <img src="images/avatar.svg" alt="avatar" class="avatar">
+        <span>Личный кабинет</span>
+        <img src="images/dropdown.svg" alt="dropdown">
+      </div>
+    </div>
+    <div id="sidebar">
+      <a href="javascript:void(0)" class="closeSidebar" onclick="closeNav()">&times;</a>
+      <a href="#">Проекты тип #1</a>
+      <a href="#">Проекты тип #2</a>
+      <a href="#">Проекты тип #3</a>
+    </div>
+  </header>
+
+  <section id="links">
+    <div class="container">
+      <div class="importantLinks">
+        <div>
+          <img src="images/_logo.svg" alt="logo">
+        </div>
+        <div>
+          <a href="#">Важная ссылка #1</a>
+          <a href="#">Важная ссылка #2</a>
+          <a href="#">Важная ссылка #3</a>
+          <a href="#">Важная ссылка #4</a>
+        </div>
+      </div>
+    </div>
+    <div class="container breadcrumb">
+      <div>
+        <a href="#">Главная / </a>
+        <a href="#">Раздел / </a>
+        <a href="#">Подраздел / </a>
+        <a href="#">Страница проекта / </a>
+        <a href="#">Название процесса / </a>
+        <a href="#">Название ветки / </a>
+        <a href="#">Название этапа</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="content">
+    <div class="container">
+      <div class="taskList">
+        <span class="title">Актуальные таски</span>
+        <div></div>
+      </div>
+      <div class="taskAction">asd</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>Copyright 2009 Your name</p>
+    </div>
+  </footer>
+
+  <script>
+    function openNav() {
+      const sideBarStyle = document.getElementById('sidebar').style;
+      sideBarStyle.width = '250px';
+    }
+    function closeNav() {
+      document.getElementById('sidebar').style.width = '0';
+    }
+  </script>
+</body>
+</html>
