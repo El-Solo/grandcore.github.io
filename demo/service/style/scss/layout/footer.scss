@@ -1,0 +1,60 @@
+footer > div {
+  background: $dark;
+  color: $white;
+  width: inherit;
+  padding: 2rem;
+}
+footer .subscription {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+footer .subscription > div{
+  display: inline-flex;
+  flex-direction: column;
+}
+footer .subscription label, footer .subscription span{
+  margin-bottom: .5rem;
+}
+.subscription input {
+  padding: 1.25rem 1rem;
+  border-radius: 4px;
+  color: $dark;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  border: none;
+  width: 22em;
+}
+.subscription input::placeholder {
+  color: $dark;
+}
+footer .navLinks{
+  display: block;
+  max-width: 22em;
+}
+.subscription a {
+  color: $breadcrumb;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+}
+footer .license {
+  margin-top: 10rem;
+}
+.license hr{
+  border: 1px solid $breadcrumb;
+  margin: 0 0 3rem 0;
+}
+.license div {
+  display: flex;
+  align-items: center;
+}
+.license img {
+  margin-right: 1em;
+}
+.license p {
+  margin: 0;
+  color: $color-header;
+}
