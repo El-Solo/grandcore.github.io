@@ -9,42 +9,36 @@ footer .subscription {
   justify-content: flex-end;
   flex-wrap: wrap;
 }
-footer .subscription > div{
+footer .subscription > div {
   display: inline-flex;
   flex-direction: column;
 }
-footer .subscription label, footer .subscription span{
+footer .subscription label, footer .subscription span {
   margin-bottom: .5rem;
 }
 .subscription input {
   padding: 1.25rem 1rem;
-  border-radius: 4px;
+  border-radius: $brRadius;
   color: $dark;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 24px;
   border: none;
   width: 22em;
 }
 .subscription input::placeholder {
   color: $dark;
 }
-footer .navLinks{
+footer .navLinks {
   display: block;
   max-width: 22em;
 }
 .subscription a {
   color: $breadcrumb;
-  text-decoration: none;
-  font-size: 16px;
-  line-height: 24px;
   display: inline-block;
 }
 footer .license {
   margin-top: 10rem;
 }
 .license hr{
-  border: 1px solid $breadcrumb;
+  border: 0.06rem solid $breadcrumb;
   margin: 0 0 3rem 0;
 }
 .license div {

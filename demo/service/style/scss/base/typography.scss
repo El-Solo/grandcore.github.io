@@ -2,15 +2,49 @@ body {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
-#header{
+#header {
   font-weight: 500;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: .875rem;
+  line-height: 1.25rem;
+}
+.openSidebar, .openBtn {
+  font-size: 1.875rem;
+}
+#sidebar a {
+  font-size: 1rem;
+}
+#links .container a {
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+#content .taskList {
+  font-weight: 500;
+  font-size: .75rem;
+  line-height: 1.625rem;
 }
 .btn {
   font-weight: 600;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.subscription input {
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.subscription a {
+  text-decoration: none;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.tasks ul {
+  font-weight: normal;
+  font-size: .625rem;
+}
+.taskAction h3 {
+  font-weight: 500;
+  font-size: 1.125rem;
 }
 #header li,
 #header .personal,
