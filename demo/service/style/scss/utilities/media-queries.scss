@@ -1,9 +1,30 @@
 @media screen and (max-width: 998px) {
-  nav, #header ul{
+  nav, #header ul {
     display: none;
   }
   #header .openSidebar {
     display: block;
+  }
+  .taskAction .btnAction {
+    text-align: center;
+  }
+  #content .taskAction .btnAction .darkBtn {
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+}
+@media screen and (max-width: 440px) {
+  .importantLinks img {
+    width: 20rem;
+  }
+  .subscription {
+    flex-direction: column;
+  }
+  .subscription > div {
+    flex: 1;
+  }
+  .container .subscription input {
+    width: 100%;
   }
 }
 @media screen and (max-height: 440px) {
