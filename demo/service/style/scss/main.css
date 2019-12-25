@@ -280,7 +280,7 @@ nav, #header ul {
   padding: 1.125rem; }
 
 #header li:hover {
-  background-color: rgba(255, 255, 255, 0.2); }
+  background: linear-gradient(0deg, #3B4256 0%, #b7b7b738 100%); }
 
 #sidebar {
   height: 100%;
