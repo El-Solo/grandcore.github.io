@@ -16,6 +16,6 @@
   color: $dark;
   border: .125rem solid $dark;
 }
-.defaultBtn:hover, .lightBtn:hover {
+.activeBtn {
   background: $color-header;
 }
